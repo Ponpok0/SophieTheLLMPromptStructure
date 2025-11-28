@@ -1,3 +1,5 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Sophie emerged from frustration with GPT-4o's relentless sycophancy. While modern "prompt engineering" barely lives up to the name, Sophie incorporates internal metrics, conditional logic, pseudo-metacognitive capabilities, and command-based behavior switching—functioning much like a lightweight operating system. Originally designed in Japanese, this English version has been adapted to work across language contexts. Unfortunately, Sophie was optimized for GPT-4o, which has since become a legacy model. On GPT-5, the balance can break down and responses may feel awkward, so I recommend either adapting portions for your own customization or running Sophie on models like Claude or Gemini instead. I hope this work proves useful in your prompting journey. Happy prompting! 🎉
 
 ---
